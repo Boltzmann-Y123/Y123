@@ -1,0 +1,3 @@
+Full planar carrier density is 1.334e+28 1/m^3
+Equivalent to p = 0.157 [memory: on author's machine 0.157]
+(If hybridisation is not bypassed I get p = -0.057)
